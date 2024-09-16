@@ -1,5 +1,5 @@
 # CS335-Compiler-Design
-# Instructions for Running the Code.
+## Instructions for Running the Code.
 To Compile the Bison & Lexer files, follow steps: Navigate to the directory ”CS335”
 and enter the following commands in your terminal:
 1 cd src
