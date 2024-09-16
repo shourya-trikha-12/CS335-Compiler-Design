@@ -2,11 +2,11 @@
 ## Instructions for Running the Code.
 To Compile the Bison & Lexer files, follow the following steps: 
 First navigate to the ”CS335” directory and enter the following commands in your terminal:
-1. cd src
-2. make
+cd src
+make
 
 Now to compile any python file <file.python> using this compiler, run
-1. ./ final -- input < file . python >
+./ final -- input < file . python >
 
 ## To view different Intermediate files, options supported are:
 1 -- help to check all the possible options
